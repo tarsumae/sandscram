@@ -16,6 +16,7 @@ Korean summary: 거북이 경주(영문 이름 Sandscram)는 2~8명이 하나의
 - [Home (Korean)](https://tarsumae.github.io/sandscram/): overview, how to play, everyday uses, FAQ
 - [Home (English)](https://tarsumae.github.io/sandscram/en/): same content in English
 - [Google Play](https://play.google.com/store/apps/details?id=com.sandscram.game): download
+- [Play in your browser](https://tarsumae.github.io/sandscram/play/): full web version, including the ending
 - [Privacy policy](https://tarsumae.github.io/sandscram/privacy.html)
 
 ## FAQ
